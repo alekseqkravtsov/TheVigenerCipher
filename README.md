@@ -12,8 +12,8 @@
 где Yi – i-й символ алфавита; k1 и k2 – константы, Xi – i-й символ открытого текста (номер буквы в алфавите);
 n - длина используемого алфавита.
 
-**Шифр, задаваемый формулой:**
-![alt text](https://github.com/alekseqkravtsov/TheVigenerCipher/blob/main/images/AodZ5B1WQK0.jpg)
+**Шифр, задаваемый формулой:**  
+![alt text](https://github.com/alekseqkravtsov/TheVigenerCipher/blob/main/images/AodZ5B1WQK0.jpg)  
 где ki – i-я буква ключа, в качестве которого используются слово или фраза, называется шифром Виженера.
 
 **Задание:**
