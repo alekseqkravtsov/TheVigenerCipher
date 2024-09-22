@@ -8,7 +8,7 @@
 поэтому можно считать, что М={1,2,...,N}.
 
 **Общая формула моноалфавитной замены выглядит следующим образом:**
-![alt text](https://github.com/alekseqkravtsov/TheVigenerCipher/blob/main/images/KkseihP5arI.jpg)
+![alt text](https://github.com/alekseqkravtsov/TheVigenerCipher/blob/main/images/KkseihP5arI.jpg)  
 где Yi – i-й символ алфавита; k1 и k2 – константы, Xi – i-й символ открытого текста (номер буквы в алфавите);
 n - длина используемого алфавита.
 
