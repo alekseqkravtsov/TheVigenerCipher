@@ -1,0 +1,14 @@
+C:\Users\Алексей\source\repos\InfoDefendLab2\InfoDefendLab2\bin\Debug\InfoDefendLab2.exe.config
+C:\Users\Алексей\source\repos\InfoDefendLab2\InfoDefendLab2\bin\Debug\InfoDefendLab2.exe
+C:\Users\Алексей\source\repos\InfoDefendLab2\InfoDefendLab2\bin\Debug\InfoDefendLab2.pdb
+C:\Users\Алексей\source\repos\InfoDefendLab2\InfoDefendLab2\obj\Debug\InfoDefendLab2.csproj.AssemblyReference.cache
+C:\Users\Алексей\source\repos\InfoDefendLab2\InfoDefendLab2\obj\Debug\InfoDefendLab2.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\source\repos\InfoDefendLab2\InfoDefendLab2\obj\Debug\InfoDefendLab2.exe
+C:\Users\Алексей\source\repos\InfoDefendLab2\InfoDefendLab2\obj\Debug\InfoDefendLab2.pdb
+C:\Users\Алексей\Documents\GitRepos\TheVigenerCipher\InfoDefendLab2\bin\Debug\InfoDefendLab2.exe.config
+C:\Users\Алексей\Documents\GitRepos\TheVigenerCipher\InfoDefendLab2\bin\Debug\InfoDefendLab2.exe
+C:\Users\Алексей\Documents\GitRepos\TheVigenerCipher\InfoDefendLab2\bin\Debug\InfoDefendLab2.pdb
+C:\Users\Алексей\Documents\GitRepos\TheVigenerCipher\InfoDefendLab2\obj\Debug\InfoDefendLab2.csproj.AssemblyReference.cache
+C:\Users\Алексей\Documents\GitRepos\TheVigenerCipher\InfoDefendLab2\obj\Debug\InfoDefendLab2.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\Documents\GitRepos\TheVigenerCipher\InfoDefendLab2\obj\Debug\InfoDefendLab2.exe
+C:\Users\Алексей\Documents\GitRepos\TheVigenerCipher\InfoDefendLab2\obj\Debug\InfoDefendLab2.pdb
